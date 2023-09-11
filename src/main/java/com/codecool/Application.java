@@ -1,8 +1,8 @@
 package com.codecool;
 
-import com.codecool.seasonalproductdiscounter.service.products.browser.ProductBrowser;
-import com.codecool.seasonalproductdiscounter.service.products.provider.RandomProductGenerator;
-import com.codecool.seasonalproductdiscounter.service.products.statistics.ProductStatistics;
+import com.codecool.service.products.browser.ProductBrowser;
+import com.codecool.service.products.provider.RandomProductGenerator;
+import com.codecool.service.products.statistics.ProductStatistics;
 import com.codecool.ui.ProductsUi;
 import com.codecool.ui.StatisticsUi;
 

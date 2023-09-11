@@ -1,7 +1,7 @@
 package com.codecool.ui;
 
 import com.codecool.model.enums.Color;
-import com.codecool.seasonalproductdiscounter.service.products.statistics.ProductStatistics;
+import com.codecool.service.products.statistics.ProductStatistics;
 
 import java.util.Map;
 

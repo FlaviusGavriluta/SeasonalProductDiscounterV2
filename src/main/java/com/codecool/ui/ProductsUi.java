@@ -1,7 +1,7 @@
 package com.codecool.ui;
 
 import com.codecool.model.products.Product;
-import com.codecool.seasonalproductdiscounter.service.products.browser.ProductBrowser;
+import com.codecool.service.products.browser.ProductBrowser;
 
 import java.util.Collection;
 
@@ -25,4 +25,3 @@ public class ProductsUi {
         }
     }
 }
-

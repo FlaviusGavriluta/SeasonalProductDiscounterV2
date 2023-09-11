@@ -4,7 +4,7 @@ import com.codecool.model.offers.Offer;
 import com.codecool.model.products.Product;
 import com.codecool.service.discounts.DiscountProvider;
 import com.codecool.service.discounts.DiscountService;
-import com.codecool.seasonalproductdiscounter.service.products.provider.ProductProvider;
+import com.codecool.service.products.provider.ProductProvider;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
