@@ -1,6 +1,6 @@
 package com.codecool.service.logger;
 
-public class ConsoleLogger extends LoggerBase implements Logger {
+public class FileLogger extends LoggerBase implements Logger {
     @Override
     public void logInfo(String message) {
         System.out.println(createLogEntry(message, "INFO"));
